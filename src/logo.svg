@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-pepper_1">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="pepper_1" data-name="pepper – 1" clip-path="url(#clip-pepper_1)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="264" height="362" rx="37" transform="translate(232.185 33.249) rotate(30)" fill="#fff" opacity="0.5"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="264" height="362" rx="37" transform="translate(290.648 34.676) rotate(45)" fill="#fff"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 4)" opacity="0.75">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="108" height="43" rx="21.5" transform="translate(122 91)" fill="#d10200"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="142" height="44" rx="22" transform="translate(122 148)" fill="#d61e00"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="95" height="44" rx="22" transform="translate(122 205)" fill="#dc3c00"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="126" height="44" rx="22" transform="translate(122 263)" fill="#e66d00"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="108" height="44" rx="22" transform="translate(122 320)" fill="#f4b500"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="108" height="43" rx="21.5" transform="translate(122 378)" fill="#fbdb00"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="96" height="43" rx="21.5" transform="translate(243 91)" fill="#d30c00"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="111" height="44" rx="22" transform="translate(280 148)" fill="#d92b00"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="158" height="44" rx="22" transform="translate(233 205)" fill="#df4a00"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="78" height="44" rx="22" transform="translate(261 263)" fill="#ec8d00"/>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="108" height="43" rx="21.5" transform="translate(122 91)" fill="#d10200"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="142" height="44" rx="22" transform="translate(122 148)" fill="#d61e00"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="95" height="44" rx="22" transform="translate(122 205)" fill="#dc3c00"/>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="126" height="44" rx="22" transform="translate(122 263)" fill="#e66d00"/>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="108" height="44" rx="22" transform="translate(122 320)" fill="#f4b500"/>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="108" height="43" rx="21.5" transform="translate(122 378)" fill="#fbdb00"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="96" height="43" rx="21.5" transform="translate(243 91)" fill="#d30c00"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="111" height="44" rx="22" transform="translate(280 148)" fill="#d92b00"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="158" height="44" rx="22" transform="translate(233 205)" fill="#df4a00"/>
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="78" height="44" rx="22" transform="translate(261 263)" fill="#ec8d00"/>
+    </g>
+  </g>
+</svg>
