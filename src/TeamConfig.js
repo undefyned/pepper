@@ -13,18 +13,18 @@ const teamInfo = [
         "linkFourTitle": ""
     },
     {
-        "name": "A Huge Thanks <3",
-        "info": "To all these people for suggestions & early testing!",
-        "profileImage": "https://images.unsplash.com/photo-1533514114760-4389f572ae26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=617&q=80",
-        "linkOne": "https://twitter.com/code_krta_hu",
-        "linkOneTitle": "Nishant",
-        "linkTwo": "https://twitter.com/revothrottle",
-        "linkTwoTitle": "Siddo",
-        "linkThree": "https://twitter.com/sangampandasp9",
-        "linkThreeTitle": "Sangam",
-        "linkFour": "https://twitter.com/Yogesh_gosavi_",
-        "linkFourTitle": "YoG"
-    }
+        "name": "Another name",
+        "info": "Another name's info",
+        "profileImage": "",
+        "linkOne": "",
+        "linkOneTitle": "",
+        "linkTwo": "",
+        "linkTwoTitle": "",
+        "linkThree": "",
+        "linkThreeTitle": "",
+        "linkFour": "",
+        "linkFourTitle": ""
+    },
     // Add additional sections here
 ]
 
