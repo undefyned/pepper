@@ -1,4 +1,6 @@
 # Pepper Dashboard
  A wallpaper dashboard for the web, built on React. Easy to setup and Customize.
+ 
+ [Instructions for setting it up](https://github.com/undefyned/pepper/wiki)
 
- (I'll update the instructions within a week)
+ 
